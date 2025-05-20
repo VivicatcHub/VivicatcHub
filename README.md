@@ -59,3 +59,7 @@ void about_me(int iq)
         </a>
     </kbd> -->
 </div>
+
+<div align="center">
+ <img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="" />
+</div>
