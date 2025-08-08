@@ -25,7 +25,11 @@
                 <h2>Preferred language</h2>
                 <p align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=c,js,py" />
+                        <img src="https://skillicons.dev/icons?i=c,cpp,py,ruby" />
+                        <br />
+                        <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+                        <br />
+                        <img src="https://skillicons.dev/icons?i=md,bash" />
                     </a>
                 </p>
             </td>
